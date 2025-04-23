@@ -34,4 +34,4 @@ Conseguir meu primeiro estágio como desenvolvedor back-end e crescer profission
 
 ### 📫 Como me encontrar:
 - Email: danielvmacedog1@gmail.com  
-- LinkedIn: [Seu perfil aqui]  
+- LinkedIn: [https://www.linkedin.com/in/daniel-vieira-81825934a/]  
