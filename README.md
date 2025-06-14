@@ -35,4 +35,5 @@ Conseguir meu primeiro estágio como desenvolvedor back-end e crescer profission
 ### 📫 Como me encontrar:
 - Email: danielvmacedog1@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/dv-dev1/]
-- [[Instagram]: (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+
