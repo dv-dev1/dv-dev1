@@ -3,7 +3,7 @@
 ## 📌 Sobre mim:
 
 Desenvolvedor back-end em formação ⏳  
-Atualmente focado em construir soluções robustas com Java, Python e bancos de dados relacionais.  
+Atualmente focado em construir soluções robustas com Java, Python, JavaScript e Node.JS e bancos de dados relacionais.  
 🎯 Em busca do meu **primeiro estágio** na área da programação.  
 📺 Faço **lives todos os dias** mostrando meu progresso e aprendizados.
 
