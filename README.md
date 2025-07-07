@@ -2,8 +2,8 @@
 
 ## 📌 Sobre mim:
 
-Desenvolvedor back-end em formação ⏳  
-Atualmente focado em construir soluções robustas com Java, Python e bancos de dados relacionais.  
+Desenvolvedor Full Stack em formação ⏳  
+Atualmente focado em construir soluções robustas com Java, Python, Desenvolvimento Web e bancos de dados relacionais.  
 🎯 Em busca do meu **primeiro estágio** na área da programação.  
 📺 Faço **lives todos os dias** mostrando meu progresso e aprendizados.
 
