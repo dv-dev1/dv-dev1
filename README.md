@@ -4,7 +4,7 @@
 
 Desenvolvedor Backend  
 Atualmente focado em construir soluções robustas com Java, Python, Desenvolvimento Web e bancos de dados relacionais.  
-🎯 Em busca do meu **primeiro estágio** em Desenvolvimento.  
+🎯 Em busca da minha **primeira oportunidade** na área de  Desenvolvimento de Software.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvmacedo_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-dev1/)
