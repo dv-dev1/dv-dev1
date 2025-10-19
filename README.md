@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim:
 
-Desenvolvedor BackEnd  
+Desenvolvedor Backend  
 Atualmente focado em construir soluções robustas com Java, Python, Desenvolvimento Web e bancos de dados relacionais.  
 🎯 Em busca do meu **primeiro estágio** em Desenvolvimento.  
 
