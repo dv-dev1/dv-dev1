@@ -2,10 +2,9 @@
 
 ## 📌 Sobre mim:
 
-Desenvolvedor Full Stack em formação ⏳  
+Desenvolvedor BackEnd  
 Atualmente focado em construir soluções robustas com Java, Python, Desenvolvimento Web e bancos de dados relacionais.  
-🎯 Em busca do meu **primeiro estágio** na área da programação.  
-📺 Faço **lives todos os dias** mostrando meu progresso e aprendizados.
+🎯 Em busca do meu **primeiro estágio** em Desenvolvimento.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvmacedo_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-dev1/)
