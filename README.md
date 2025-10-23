@@ -54,7 +54,7 @@ I have solid expertise in **Java**, **Spring Boot**, **Node.js**, **Python**, **
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)]
 
 <hr>
