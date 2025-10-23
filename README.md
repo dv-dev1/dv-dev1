@@ -3,13 +3,11 @@
 
 ## 🧑‍💻 About Me
 
-**Backend Developer**
+**Software developer** with 1+ experience in backend applications, specialized in the **Java ecosystem** and **Spring Boot framework**. Focused on building robust, scalable, and secure RESTful APIs.
 
-Systems Analysis and Development student passionate about solving complex problems through software engineering. My career focus is backend development, specializing in the **Java ecosystem** and the **Spring Boot framework** to build secure, efficient, and scalable RESTful APIs.
+My professional background in **process automation** has provided a solid foundation in system optimization and integrating diverse applications via APIs. This hands-on experience with data flow complements my expertise in building and maintaining robust backend service architectures.
 
-My current experience as an **automation intern** has provided a solid foundation in process logic, system optimization, and integrating diverse applications via APIs. This hands-on experience with data flow directly complements my goal of building and maintaining robust backend service architectures.
-
-I have knowledge in **Java**, **Spring Boot**, **SQL**, and **Git**, and I am constantly developing personal projects to deepen my skills. I am actively seeking a **Software Development opportunity** to apply my dedication, learn from experienced teams, and contribute to creating high-impact solutions.
+I have solid expertise in **Java**, **Spring Boot**, **Node.js**, **Python**, **Django**, **Flask**, **MySQL**, **PostgreSQL**, and **MongoDB**.
 
 <hr>
 
@@ -57,6 +55,6 @@ I have knowledge in **Java**, **Spring Boot**, **SQL**, and **Git**, and I am co
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
