@@ -1,46 +1,62 @@
-<h1 align="center">Olá! eu sou o Daniel 👋</h1>
-
-## 📌 Sobre mim:
-
-Desenvolvedor Backend  
-Atualmente focado em construir soluções robustas com Java, Python, Desenvolvimento Web e bancos de dados relacionais.  
-🎯 Em busca da minha **primeira oportunidade** na área de  Desenvolvimento de Software.  
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvmacedo_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-dev1/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dvdev_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com//@dv-dev1)
-
-
----
-
-## 📊 GitHub Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark&bust_cache=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)
-
----
-
-## 💻 Tech Stack:
-
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
+# Hey there! I'm Daniel 👋
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧑‍💻 About Me
 
----
+**Backend Developer**
 
-⚙️ **Foco**: APIs REST, microsserviços, e aplicações back-end escaláveis  
-🔥 **Buscando**: Primeira oportunidade como desenvolvedor back-end  
-🚀 **Objetivo**: Trabalhar com times ágeis e entregar valor através da tecnologia
+Systems Analysis and Development student passionate about solving complex problems through software engineering. My career focus is backend development, specializing in the **Java ecosystem** and the **Spring Boot framework** to build secure, efficient, and scalable RESTful APIs.
 
----
+My current experience as an **automation intern** has provided a solid foundation in process logic, system optimization, and integrating diverse applications via APIs. This hands-on experience with data flow directly complements my goal of building and maintaining robust backend service architectures.
 
-💡 _"Apaixonado por resolver problemas reais com código."_
+I have knowledge in **Java**, **Spring Boot**, **SQL**, and **Git**, and I am constantly developing personal projects to deepen my skills. I am actively seeking a **Software Development opportunity** to apply my dedication, learn from experienced teams, and contribute to creating high-impact solutions.
+
+<hr>
+
+## 🎓 Education
+
+* 🎓 Systems Analysis and Development (Unipê)
+
+<hr>
+
+## 💬 Let's Connect:
+
+* 🔗 LinkedIn: [https://www.linkedin.com/in/dv-dev/](https://www.linkedin.com/in/dv-dev/)
+* 📧 E-mail: [danielvmacedog1@gmail.com](mailto:danielvmacedog1@gmail.com) 
+
+<hr>
+
+## 🛠️ Technologies and Tools
+
+### ⚒️ Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+</p>
+
+### ☁️ Databases & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
+</p>
+
+### 🐧 Infra & Devops
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+</p>
+
+
+<hr>
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark&bust_cache=1)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
