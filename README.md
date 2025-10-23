@@ -16,9 +16,9 @@ Atualmente focado em construir soluções robustas com Java, Python, Desenvolvim
 
 ## 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dv-dev1&show_icons=true&theme=github_dark)](https://github.com/dv-dev1)
+[![GitHub Stats]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-dev1&layout=compact&theme=github_dark)
+![Top Langs]()
 
 ---
 
