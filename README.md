@@ -1,6 +1,4 @@
 # I'm Daniel
-### Developer Full-Stack | Java | Python | TypeScript | Node.js | React.js | React Native | SQL | Automação & RPA | AWS
-
 <br>
 
 ## 🧑‍💻 About Me
