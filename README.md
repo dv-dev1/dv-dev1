@@ -7,7 +7,7 @@
 
 My professional background in **process automation** has provided a solid foundation in system optimization and integrating diverse applications via APIs. This hands-on experience with data flow complements my full-stack expertise in building and maintaining robust service architectures.
 
-I have hands-on experience with **Java (Spring Boot)**, **Python (Django)**, **Node.js (Express)**, **TypeScript**, **React.js**, **React Native**, **SQL (PostgreSQL, MySQL)**, and **NoSQL (MongoDB)**.
+I have hands-on experience with **Python (Django)**, **Node.js (Express)**, **TypeScript**, **React.js**, **React Native**, **SQL (PostgreSQL, MySQL)**, and **NoSQL (MongoDB)**.
 
 <hr>
 
@@ -15,8 +15,6 @@ I have hands-on experience with **Java (Spring Boot)**, **Python (Django)**, **N
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
