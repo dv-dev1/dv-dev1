@@ -40,10 +40,8 @@ Full stack is not my title. It is why I can take an agent from prototype to prod
 
 ### Education
 
-**Systems Analysis and Development (CST)** — Unipê, João Pessoa · 2025 – 2026
+**Systems Analysis and Development (CST)** — Unipê - Centro Universitário de João Pessoa 
 
 ### Contact
-
-Open to AI Engineer and Automation Engineering roles. Remote from Brazil, and happy to relocate to São Paulo when a role calls for it.
 
 [LinkedIn](https://www.linkedin.com/in/dv-dev/) · [danielvmacedog1@gmail.com](mailto:danielvmacedog1@gmail.com)
