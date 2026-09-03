@@ -5,8 +5,6 @@
 
 Building LLM agents that survive production, and the full stack around them.
 
-English · [Português](README.pt-BR.md)
-
 ---
 
 ## What I do
