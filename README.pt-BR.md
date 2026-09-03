@@ -3,47 +3,59 @@
   <img src=".github/assets/header-light.svg" alt="Daniel Vieira — AI Full Stack Engineer" width="880" />
 </picture>
 
+Construindo agentes de LLM que aguentam produção, e a stack inteira em volta deles.
+
 [English](README.md) · Português
 
-### Sobre
+---
 
-Eu construo agentes de LLM que aguentam produção. A distância entre um agente que demonstra bem e um que opera de verdade tem nome: o harness — as policies, os hooks, os guardrails e a suíte de avaliação em volta do modelo. É nisso que eu trabalho.
+## O que eu faço
 
-Full stack não é o meu título. É a razão de eu conseguir levar um agente do protótipo ao ar sem depender de mais ninguém.
+Eu construo sistemas de IA que passam da demo:
 
-### Experiência
+- agentes com harness fechado — policies, hooks, guardrails, evals
+- RAG e recuperação que mantêm o custo por consulta sustentável
+- a aplicação em volta do agente, do fluxo ao deploy
 
-**Engenheiro de IA Conversacional e Desenvolvedor Full Stack** — Smartspace · nov 2025 – atual
+Meu trabalho fica onde **agentes, produto e confiabilidade em produção** se encontram.
 
-- Migrei o agendamento de exames de um hospital de grande porte de n8n para agente em código. O harness fechado em volta do modelo cortou a alucinação que fazia o usuário abandonar a jornada antes de concluir. **As marcações concluídas passaram de ~120 para ~230 por mês.**
-- Construí o pipeline design-to-bot que **reduziu em 80% o ciclo de engenharia de um bot**: um plugin de Figma converte o protótipo em JSON estruturado, e o App Builder transforma esse JSON em bot de produção. Apresentado no TechUpdate, o fórum mensal dos projetos de maior impacto da empresa.
-- Padronizei o desenvolvimento assistido por IA do time com um workspace de hooks e skills, para que a geração por LLM siga o padrão arquitetural por construção, em vez de por correção caso a caso.
+---
 
-**Estagiário em IA Aplicada e Automação** — Inteligentte Lab · jul – nov 2025
+## Foco atual
 
-- **Reduzi em 99,3% o custo por consulta de um agente sobre um catálogo de mais de 2.000 produtos**, de US$ 6,00 para US$ 0,04, trocando o envio do catálogo inteiro em cada pergunta — 600 mil tokens — por recuperação vetorial com Pinecone. Com o mesmo orçamento diário, o agente passou de 3 para 500 clientes atendidos por dia. Aberto em [n8n-rag-catalog-optimizer](https://github.com/dv-dev1/n8n-rag-catalog-optimizer).
-- Desenvolvi agentes com arquitetura RAG para suporte contextual sobre bases documentais, e as integrações em volta deles com n8n, APIs REST e webhooks.
+→ harness de agente  
+→ MCP e uso de ferramentas  
+→ custo e latência por consulta  
+→ desenvolvimento assistido por IA que segue a arquitetura do time  
 
-**Estagiário em Automação e Agentes de IA** — Agência Quinze · jul – nov 2025
+---
 
-- Fluxos de automação em Make e n8n, agentes autônomos para demandas internas recorrentes, e integração de dados entre CRM, ferramentas de marketing e ClickUp.
+## Trajetória
 
-### Stack
+- Engenheiro de IA Conversacional e Desenvolvedor Full Stack na Smartspace
+- Migrei o agendamento de exames de um hospital de grande porte de n8n para agente em código — as marcações concluídas passaram de ~120 para ~230 por mês
+- Reduzi em 99,3% o custo por consulta de um agente, de US$ 6,00 para US$ 0,04, com recuperação vetorial no lugar de um prompt de 600 mil tokens — [n8n-rag-catalog-optimizer](https://github.com/dv-dev1/n8n-rag-catalog-optimizer)
+- Construí um pipeline design-to-bot que reduziu em 80% o ciclo de engenharia de um bot, do protótipo em Figma ao bot em produção
+- Análise e Desenvolvimento de Sistemas (CST) no Unipê - Centro Universitário de João Pessoa
 
-**IA** — LangChain, LangGraph, RAG, Pinecone, MCP, evals e custo por token, OpenAI, Claude, Groq, Botpress, n8n
+---
 
-**Back-end** — Python, FastAPI, Node.js, TypeScript, Pytest
+## Stack
 
-**Front-end** — React, Next.js, Streamlit
+Python · FastAPI · TypeScript · Node.js · React · Next.js  
+LangChain · LangGraph · RAG · Pinecone · MCP · evals · Botpress · n8n  
+PostgreSQL · MongoDB · Supabase · AWS · Docker · Terraform  
 
-**Dados e infraestrutura** — PostgreSQL, Supabase, MongoDB, DynamoDB, AWS, Docker, Terraform, Kafka, RabbitMQ
+---
 
-### Formação
+## Filosofia
 
-**Análise e Desenvolvimento de Sistemas (CST)** — Unipê, João Pessoa · 2025 – 2026
+Um agente que demonstra bem e um agente que opera estão separados por uma coisa: o harness.
+Eu prefiro entregar o segundo.
 
-### Contato
+---
 
-Aberto a vagas de Engenheiro de IA, AI Engineer e Engenharia de Automação. Remoto no Brasil, com mudança para São Paulo se a vaga pedir.
+## Contato
 
-[LinkedIn](https://www.linkedin.com/in/dv-dev/) · [danielvmacedog1@gmail.com](mailto:danielvmacedog1@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/dv-dev/
+- E-mail: danielvmacedog1@gmail.com

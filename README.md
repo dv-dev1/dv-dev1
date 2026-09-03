@@ -3,45 +3,59 @@
   <img src=".github/assets/header-light.svg" alt="Daniel Vieira — AI Full Stack Engineer" width="880" />
 </picture>
 
+Building LLM agents that survive production, and the full stack around them.
+
 English · [Português](README.pt-BR.md)
 
-### About
+---
 
-I build LLM agents that survive production. The gap between an agent that demos well and one that actually runs has a name: the harness — the policies, the hooks, the guardrails and the evaluation suite around the model. That is what I work on.
+## What I do
 
-Full stack is not my title. It is why I can take an agent from prototype to production without waiting on anyone else.
+I build AI systems that go past the demo:
 
-### Experience
+- agents with a closed harness — policies, hooks, guardrails, evals
+- RAG and retrieval that keeps the cost per query survivable
+- the application around the agent, from the flow to the deploy
 
-**Conversational AI Engineer and Full Stack Developer** — Smartspace · Nov 2025 – Present
+My work sits where **agents, product and production reliability** meet.
 
-- Moved a large hospital's exam scheduling from n8n to an agent in code. A closed harness around the model cut the hallucination that made users abandon the journey before finishing. **Completed bookings went from ~120 to ~230 a month.**
-- Built the design-to-bot pipeline that **cut a bot's engineering cycle by 80%**: a Figma plugin turns the prototype into structured JSON, and an App Builder turns that JSON into a production bot. Presented at TechUpdate, the company's monthly forum for its highest-impact projects.
-- Standardised the team's AI-assisted development with a workspace of hooks and skills, so LLM generation follows the architectural pattern by construction instead of by case-by-case correction.
+---
 
-**AI and Automation Intern** — Inteligentte Lab · Jul – Nov 2025
+## Current focus
 
-- **Cut the cost per query of an agent over a 2,000+ product catalogue by 99.3%**, from US$ 6.00 to US$ 0.04, by replacing the whole catalogue in every prompt — 600k tokens — with retrieval over Pinecone. On the same daily budget, the agent went from 3 to 500 customers a day. Open at [n8n-rag-catalog-optimizer](https://github.com/dv-dev1/n8n-rag-catalog-optimizer).
-- Built RAG agents for contextual support over document bases, and the integrations around them over n8n, REST APIs and webhooks.
+→ agent harnesses  
+→ MCP and tool use  
+→ cost and latency per query  
+→ AI-assisted development that follows the team's architecture  
 
-**Automation and AI Agents Intern** — Agência Quinze · Jul – Nov 2025
+---
 
-- Automation flows in Make and n8n, autonomous agents for recurring internal demands, and data integration between CRM, marketing tools and ClickUp.
+## Background
 
-### Stack
+- Conversational AI Engineer and Full Stack Developer at Smartspace
+- Moved a large hospital's exam scheduling from n8n to an agent in code — completed bookings went from ~120 to ~230 a month
+- Cut an agent's cost per query by 99.3%, from US$ 6.00 to US$ 0.04, with retrieval over Pinecone in place of a 600k-token prompt — [n8n-rag-catalog-optimizer](https://github.com/dv-dev1/n8n-rag-catalog-optimizer)
+- Built a design-to-bot pipeline that cut a bot's engineering cycle by 80%, from Figma prototype to production bot
+- Systems Analysis and Development (CST) at Unipê - Centro Universitário de João Pessoa
 
-**AI** — LangChain, LangGraph, RAG, Pinecone, MCP, evals and token cost, OpenAI, Claude, Groq, Botpress, n8n
+---
 
-**Backend** — Python, FastAPI, Node.js, TypeScript, Pytest
+## Stack
 
-**Frontend** — React, Next.js, Streamlit
+Python · FastAPI · TypeScript · Node.js · React · Next.js  
+LangChain · LangGraph · RAG · Pinecone · MCP · evals · Botpress · n8n  
+PostgreSQL · MongoDB · Supabase · AWS · Docker · Terraform  
 
-**Data and infrastructure** — PostgreSQL, Supabase, MongoDB, DynamoDB, AWS, Docker, Terraform, Kafka, RabbitMQ
+---
 
-### Education
+## Philosophy
 
-**Systems Analysis and Development (CST)** — Unipê - Centro Universitário de João Pessoa 
+An agent that demos well and an agent that operates are separated by one thing: the harness.
+I would rather ship the second one.
 
-### Contact
+---
 
-[LinkedIn](https://www.linkedin.com/in/dv-dev/) · [danielvmacedog1@gmail.com](mailto:danielvmacedog1@gmail.com)
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/dv-dev/
+- Email: danielvmacedog1@gmail.com
