@@ -57,21 +57,7 @@ Do escopo ao bot no ar. Um plugin de Figma converte o protótipo em JSON estrutu
 </tr>
 </table>
 
-<sub>Os dois últimos rodam em código privado da Smartspace. O primeiro está aberto aqui embaixo, com o antes e o depois.</sub>
-
-<br />
-
-### Trabalhos selecionados
-
-| | |
-| :-- | :-- |
-| [**emporio-da-musica-agent**](https://github.com/dv-dev1/emporio-da-musica-agent) | Agente de atendimento com tool calling sobre SQLite e BM25 no manual de políticas — ele sabe a qual das duas fontes cada pergunta pertence. CLI, chat em Streamlit, Pytest do unitário ao end-to-end. |
-| [**n8n-rag-catalog-optimizer**](https://github.com/dv-dev1/n8n-rag-catalog-optimizer) | O corte de 99,3% acima, reproduzível: catálogo de mais de 2.000 produtos servido por RAG + Pinecone no lugar do prompt inteiro. |
-| [**chatbot-rag-discord-gaming**](https://github.com/dv-dev1/chatbot-rag-discord-gaming) | Agente de suporte 24/7 em comunidade de jogo online, com recuperação sobre base documental. |
-| [**agente-sdr-varejo-cosmeticos**](https://github.com/dv-dev1/agente-sdr-varejo-cosmeticos) | SDR de IA que qualifica leads e vende 24/7 no WhatsApp, em arquitetura de agente com ferramentas. |
-| [**agente-moderacao-instagram-make**](https://github.com/dv-dev1/agente-moderacao-instagram-make) | Triagem e resposta de comentários no Instagram, implementado em entidades do setor público. |
-| [**automacao-relatorio-bi-vendas**](https://github.com/dv-dev1/automacao-relatorio-bi-vendas) | Relatório diário de performance de vendas (D-1) entregue por WhatsApp. |
-| [**automacao-content-factory-ia**](https://github.com/dv-dev1/automacao-content-factory-ia) | Boletim diário multimodal, texto e áudio, construído a partir de web scraping e IA. |
+<sub>Os dois últimos rodam em código privado da Smartspace. O primeiro está aberto em <a href="https://github.com/dv-dev1/n8n-rag-catalog-optimizer">n8n-rag-catalog-optimizer</a>, com o antes e o depois.</sub>
 
 <br />
 

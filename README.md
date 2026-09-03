@@ -57,21 +57,7 @@ From scope to a live bot. A Figma plugin turns the prototype into structured JSO
 </tr>
 </table>
 
-<sub>The last two run on Smartspace's private code. The first one is open below, with the before and the after.</sub>
-
-<br />
-
-### Selected work
-
-| | |
-| :-- | :-- |
-| [**emporio-da-musica-agent**](https://github.com/dv-dev1/emporio-da-musica-agent) | Support agent with tool calling over SQLite and BM25 over the policy manual — it knows which of the two a question belongs to. CLI, Streamlit chat, Pytest from unit to end-to-end. |
-| [**n8n-rag-catalog-optimizer**](https://github.com/dv-dev1/n8n-rag-catalog-optimizer) | The 99.3% cut above, reproducible: a 2,000+ product catalogue served through RAG + Pinecone instead of the whole prompt. |
-| [**chatbot-rag-discord-gaming**](https://github.com/dv-dev1/chatbot-rag-discord-gaming) | 24/7 support agent for an online game community, retrieving over a document base. |
-| [**agente-sdr-varejo-cosmeticos**](https://github.com/dv-dev1/agente-sdr-varejo-cosmeticos) | AI SDR qualifying leads and selling over WhatsApp, built as an agent with tools. |
-| [**agente-moderacao-instagram-make**](https://github.com/dv-dev1/agente-moderacao-instagram-make) | Instagram comment triage and reply, deployed for public sector organisations. |
-| [**automacao-relatorio-bi-vendas**](https://github.com/dv-dev1/automacao-relatorio-bi-vendas) | Daily D-1 sales performance report delivered over WhatsApp. |
-| [**automacao-content-factory-ia**](https://github.com/dv-dev1/automacao-content-factory-ia) | Daily multimodal bulletin, text and audio, built from web scraping and AI. |
+<sub>The last two run on Smartspace's private code. The first one is open at <a href="https://github.com/dv-dev1/n8n-rag-catalog-optimizer">n8n-rag-catalog-optimizer</a>, with the before and the after.</sub>
 
 <br />
 
